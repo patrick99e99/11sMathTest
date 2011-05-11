@@ -1,0 +1,8 @@
+An applescript application which helps you facilitate the ability to multiply any number by 11.
+
+You will be prompted with a question like:  "What is 15 x 11". The secret is to
+add the digits of the number you are adding together...  15 = 1 + 5 = 6.  Then
+add that number inbetween the two digits. 165 is the answer.  This forumula
+will work with any number multiplied by 11.
+
+You can type "harder" or "easier" to change the difficulty of the questions.
